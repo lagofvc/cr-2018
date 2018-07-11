@@ -1,6 +1,6 @@
 <resources>
-    <string name="reactNativeCodePush_androidDeploymentKey" moduleConfig="true">CODEPUSH_DEPLOYMENT_KEY_HERE</string>
-    <string name="app_name">AppCenterSample</string>
-    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
-    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
+  <string name="reactNativeCodePush_androidDeploymentKey" moduleConfig="true">uonS2_kp07p0le8MScEy3gWh2vv_ByEdijm7m</string>
+  <string name="app_name">AppCenterSample</string>
+  <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true">ALWAYS_SEND</string>
+  <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true">ALWAYS_SEND</string>
 </resources>
